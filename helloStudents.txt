@@ -1,0 +1,5 @@
+hello studenet!
+
+this is our first session on git...
+
+and i hope u guys are loving it
